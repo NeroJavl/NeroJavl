@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi [NeroJavl][website] here 👋
 
-<!--
-**NeroJavl/NeroJavl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/NeroJavl?color=1DA1F2&label=NeroJavl&logo=Twitter&style=for-the-badge)](https://twitter.com/NeroJavl)
+
+ 
+
+
+[![Instagram Follow](https://img.shields.io/twitter/follow/NeroJavl?color=1DA1F2&label=NeroJavl&logo=Twitter&style=for-the-badge)](https://twitter.com/NeroJavl)
+
+
+[<img src="https://i.ytimg.com/vi/wvKqPPz7MOk/mqdefault.jpg">][website]
+
+### WEB DI XD 👋
+---
 
 Here are some ideas to get you started:
 
@@ -13,4 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+
+[website]: https://www.instagram.com//
