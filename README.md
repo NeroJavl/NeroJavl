@@ -1,6 +1,8 @@
 ### 𝕰𝖚 [🄺🄺🄹-🄼🄾🄳🅂][website] 𝕭𝖔𝖐𝖐𝖆 ☔
 ### 𝕻𝖘𝖙𝖆 𝖊 𝕹𝖊𝖗𝖔𝕵𝖆𝖛𝖑...
-[<img src="https://media.tenor.com/eGVTh8vKAEAAAAAC/itachi.gif">][website]
+<img src="https://media.tenor.com/eGVTh8vKAEAAAAAC/itachi.gif">
+
+[website]: https://www.instagram.com/nero.javl/
 
 <p align="center">
 </p>
@@ -38,6 +40,7 @@
 ### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨ 
 
  [![GataNina-Li](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
+
 
 
 
