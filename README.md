@@ -9,6 +9,7 @@
 </a>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=11&pause=435&color=34F6F7&width=435&lines=Redes+de+JAVL+X+KKJ+MODS+%F0%9F%8C%88%E2%9C%A8)](https://git.io/typing-svg)
+
 <a href="https://www.instagram.com/nero.javl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
