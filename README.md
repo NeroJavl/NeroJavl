@@ -52,15 +52,20 @@
 [![NeroJavl](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
 ###  ```𝑺𝒊 𝒅𝒆𝒔𝒆𝒂 𝒂𝒑𝒐𝒓𝒕𝒂𝒓 𝒑𝒐𝒓 𝒎𝒊 𝒕𝒓𝒂𝒃𝒂𝒋𝒐 🤠``` [`𝑴𝒊 𝑷𝒂𝒚𝑷𝒂𝒍`](https://www.paypal.me/kkjale)
 
-<div align="center" valign="Pinterest"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145808.png">
+[TikTok]:https://www.instagram.com/nero.javl/
+[Steam]:https://www.instagram.com/nero.javl/
 
-[website]:https://www.instagram.com/nero.javl/
+[Pinterest]:https://www.instagram.com/nero.javl/
 
-  <img align="center" alt="Redux" height="30" width="40" src="https://w7.pngwing.com/pngs/579/605/png-transparent-steam-computer-icons-desktop-logo-steam-icon-monochrome-video-game-microsoft-store.png">
-  <img align="center" alt="Js" height="30" width="40" src="https://w7.pngwing.com/pngs/814/840/png-transparent-tiktok-tiktok-logo-tiktok-icon.png">
+[<img align="left" alt="TikTok" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][TikTok]
+
+[<img align="left" alt="Steam" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Steam]
   
 
+
+	
+[<img align="left" alt="Pinterest" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Pinterest]
+	
 </div>
 
 ### 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
