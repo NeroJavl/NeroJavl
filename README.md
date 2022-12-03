@@ -39,7 +39,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/NeroJavl/NeroJavl/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/NeroJavl/NeroJavl/blob/output/github-contribution-grid-cobrinha.svg)
   
 </div>
 ### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨ 
