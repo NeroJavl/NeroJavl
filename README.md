@@ -57,9 +57,9 @@
 
 [Pinterest]:https://www.instagram.com/nero.javl/
 
-[<img align="left" alt="TikTok" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][TikTok]
+[<img align="left" alt="TikTok" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOYHigclnqEs3sMium-kSUQZJ3WnBvTTMPQ&usqp=CAU" />][TikTok]
 
-[<img align="left" alt="Steam" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Steam]
+[<img align="left" alt="Steam" width="26px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png" />][Steam]
   
 
 
