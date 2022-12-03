@@ -52,7 +52,7 @@
 [![NeroJavl](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
 ###  ```𝑺𝒊 𝒅𝒆𝒔𝒆𝒂 𝒂𝒑𝒐𝒓𝒕𝒂𝒓 𝒑𝒐𝒓 𝒎𝒊 𝒕𝒓𝒂𝒃𝒂𝒋𝒐 🤠``` [`𝑴𝒊 𝑷𝒂𝒚𝑷𝒂𝒍`](https://www.paypal.me/kkjale)
 
-[TikTok]:https://www.instagram.com/nero.javl/
+[TikTok]:https://www.tiktok.com/@javlkkj
 [Steam]:https://www.instagram.com/nero.javl/
 
 [Pinterest]:https://pin.it/2rVUnFz
