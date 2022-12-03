@@ -48,3 +48,8 @@
 
 
 [![Spotify](https://novatorem-9p0lop30p-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
+
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7r0gzjy58pkhtvtmsqheud3nb&cover_image=true&theme=karaoke&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
