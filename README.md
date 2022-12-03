@@ -1,8 +1,6 @@
 ### 𝕰𝖚 [🄺🄺🄹-🄼🄾🄳🅂][website] 𝕭𝖔𝖐𝖐𝖆 ☔
 ### 𝕻𝖘𝖙𝖆 𝖊 𝕹𝖊𝖗𝖔𝕵𝖆𝖛𝖑...
-<img src="https://media.tenor.com/eGVTh8vKAEAAAAAC/itachi.gif">
-
-[website]: https://www.instagram.com/nero.javl/
+[<img src="https://media.tenor.com/eGVTh8vKAEAAAAAC/itachi.gif">][website]
 
 <p align="center">
 </p>
@@ -24,7 +22,7 @@
 
 	
 [![blog](https://img.shields.io/badge/Nero-Wiii-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/Bi656UOF5OEHznM0jxk9OB) <a href="https://api.whatsapp.com/send/?phone=51914595625"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px">
+)](https://wa.me/51914595625) <a href="https://api.whatsapp.com/send/?phone=51914595625"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px">
 
 </a>
 
@@ -40,7 +38,6 @@
 ### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨ 
 
  [![GataNina-Li](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
-
 
 
 
