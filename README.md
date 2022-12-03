@@ -41,7 +41,7 @@
 [![NeroJavl](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
 ### 🍄 𝑺𝒊 𝒅𝒆𝒔𝒆𝒂 𝒂𝒑𝒐𝒓𝒕𝒂𝒓 𝒑𝒐𝒓 𝒎𝒊 𝒕𝒓𝒂𝒃𝒂𝒋𝒐 🍄[𝑴𝒊 𝑷𝒂𝒚𝑷𝒂𝒍 🤠👍🏿](https://www.paypal.me/kkjale)
 [TikTok]:https://www.tiktok.com/@javlkkj
-[Steam]:https://www.instagram.com/nero.javl/
+[Steam]:https://steamcommunity.com/profiles/76561199241634704/
 [Pinterest]:https://pin.it/2rVUnFz
 [<img align="left" alt="TikTok" width="26px" src="https://www.pngmart.com/files/20/TikTok-Logo-PNG-Photo.png" />][TikTok]
 [<img align="left" alt="Steam" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/steam_alt_macos_bigsur_icon_189698.png" />][Steam]
