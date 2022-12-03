@@ -44,7 +44,7 @@
 
 ### Spotify Playing
 
-[<img src="https://spotify-now-playingg-m3587hr58-nerojavl.vercel.app/api/spotify-playing" alt="naviscode spotify playing"
+[<img src="https://spotify-now-playingg-black.vercel.app/api/spotify-playing" alt="naviscode spotify playing"
 width="350"/>]()
 
 
