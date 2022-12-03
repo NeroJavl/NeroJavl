@@ -50,7 +50,7 @@
 
 ### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨          
 [![NeroJavl](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
-### 💖 ```DONAR``` [`Aquí`](https://www.paypal.me/kkjale)
+###  ```𝑺𝒊 𝒅𝒆𝒔𝒆𝒂 𝒂𝒑𝒐𝒓𝒕𝒂𝒓 𝒑𝒐𝒓 𝒎𝒊 𝒕𝒓𝒂𝒃𝒂𝒋𝒐 🤠``` [`𝑴𝒊 𝑷𝒂𝒚𝑷𝒂𝒍`](https://www.paypal.me/kkjale)
 
 <div align="center" valign="Pinterest"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145808.png">
