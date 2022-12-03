@@ -59,7 +59,7 @@
 
 [<img align="left" alt="TikTok" width="26px" src="https://www.pngmart.com/files/20/TikTok-Logo-PNG-Photo.png" />][TikTok]
 
-[<img align="left" alt="Steam" width="26px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png" />][Steam]
+[<img align="left" alt="Steam" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/steam_alt_macos_bigsur_icon_189698.png" />][Steam]
   
 
 
