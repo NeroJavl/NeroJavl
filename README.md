@@ -45,6 +45,7 @@
 ### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨ 
 [![NeroJavl](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
 ### 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
+
 [![Spotify](https://novatorem-9p0lop30p-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7r0gzjy58pkhtvtmsqheud3nb&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
