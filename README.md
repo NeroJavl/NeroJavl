@@ -8,7 +8,7 @@
 </p>
 <a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/Solo eu bokka🥀 -red?colorA=%&colorBF77F48FF=%F77F48FF&style=for-the-badge"></a> 
 
-<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/si deseas aportar para mi techo de calamina 😖🤙🏿-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"> 
+<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/Simpre Finos 🧐🍷 -red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"> 
 
 </a>
 
@@ -62,6 +62,7 @@
   
 
 </div>
+
 ### 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
 
 [![Spotify](https://novatorem-9p0lop30p-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
