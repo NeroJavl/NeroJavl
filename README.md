@@ -55,7 +55,7 @@
 [TikTok]:https://www.instagram.com/nero.javl/
 [Steam]:https://www.instagram.com/nero.javl/
 
-[Pinterest]:https://www.instagram.com/nero.javl/
+[Pinterest]:https://pin.it/2rVUnFz
 
 [<img align="left" alt="TikTok" width="26px" src="https://www.pngmart.com/files/20/TikTok-Logo-PNG-Photo.png" />][TikTok]
 
