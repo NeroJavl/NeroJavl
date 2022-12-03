@@ -48,7 +48,7 @@
 [<img align="left" alt="Pinterest" width="26px" src="https://www.freepnglogos.com/uploads/pinterest-logo-p-png-0.png" />][Pinterest]
 	
 ---
-### 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
+### 🛐 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
 
 
 [![Spotify](https://novatorem-9p0lop30p-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
@@ -57,4 +57,4 @@
 
 
 
-![Snake animation](https://github.com/NeroJavl/NeroJavl/blob/output/github-contribution-grid-snake.svg)
+
