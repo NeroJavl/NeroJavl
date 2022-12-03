@@ -45,3 +45,6 @@
 ### Spotify Playing
 
 
+
+
+[![Spotify](https://novatorem-9p0lop30p-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
