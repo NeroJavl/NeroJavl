@@ -38,11 +38,6 @@
 
 
 
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 
 
@@ -60,3 +55,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7r0gzjy58pkhtvtmsqheud3nb&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 
+
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
