@@ -42,4 +42,9 @@
  [![GataNina-Li](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
 
 
+### Spotify Playing
+
+[<img src="https://spotify-now-playingg-m3587hr58-nerojavl.vercel.app/api/spotify-playing" alt="naviscode spotify playing"
+width="350"/>]()
+
 
