@@ -35,13 +35,22 @@
 * 𝚔𝚔𝚓 - 𝚖𝚘𝚍𝚜 : 𝕭𝖔𝖙𝖘 𝖂𝖍𝖆𝖙𝖘𝕬𝖕 / 𝕿𝖊𝖑𝖊𝖌𝖗𝖆𝖒 / 𝕯𝖎𝖘𝖈𝖔𝖗𝖉 / 𝕸𝖁𝕷𝕽 🌨
 > 𝑫𝒊𝒄𝒊𝒆𝒎𝒃𝒓𝒆 19 - 28 / 7 𝑩𝒐𝒕𝒔 (S/0.00) / 𝑩𝒂𝒔𝒆𝒔 + 𝑺𝒆𝒓𝒗𝒊𝒅𝒐𝒓𝒆𝒔 (𝘳𝘦𝘨𝘢𝘭𝘪𝘵𝘰 𝘥𝘦𝘭 𝘤𝘳𝘦𝘢𝘥𝘰𝘳 🙆🏿‍♂️ 24 𝘋𝘐𝘊𝘐𝘌𝘔𝘉𝘙𝘌)
 ---
-</div>
+
+
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Ale/Ale/blob/output/github-contribution-grid-cobrinha.svg)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+
+
+
+
+
+
+
 ### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨ 
 [![NeroJavl](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
 ### 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
