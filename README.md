@@ -44,4 +44,4 @@
 
 ### Spotify Playing
 
-[![Spotify](https://spotify-now-playingg-m3587hr58-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/USER_nerojavl)
+
