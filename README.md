@@ -36,15 +36,8 @@
 > 𝑫𝒊𝒄𝒊𝒆𝒎𝒃𝒓𝒆 19 - 28 / 7 𝑩𝒐𝒕𝒔 (S/0.00) / 𝑩𝒂𝒔𝒆𝒔 + 𝑺𝒆𝒓𝒗𝒊𝒅𝒐𝒓𝒆𝒔 (𝘳𝘦𝘨𝘢𝘭𝘪𝘵𝘰 𝘥𝘦𝘭 𝘤𝘳𝘦𝘢𝘥𝘰𝘳 🙆🏿‍♂️ 24 𝘋𝘐𝘊𝘐𝘌𝘔𝘉𝘙𝘌)
 ---
 ### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨ 
-
- [![NeroJavl](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
-
-
-### Spotify Playing
-
-
-
-
+[![NeroJavl](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
+### 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
 [![Spotify](https://novatorem-9p0lop30p-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
 
 
@@ -54,5 +47,5 @@
 
 
 
-![Snake animation](https://github.com/NeroJavl/NeroJavl/blob/output/github-contribution-grid-snake.svg)
+
 
