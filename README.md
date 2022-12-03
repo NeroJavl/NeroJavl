@@ -37,39 +37,18 @@
 * 𝚔𝚔𝚓 - 𝚖𝚘𝚍𝚜 : 𝕭𝖔𝖙𝖘 𝖂𝖍𝖆𝖙𝖘𝕬𝖕 / 𝕿𝖊𝖑𝖊𝖌𝖗𝖆𝖒 / 𝕯𝖎𝖘𝖈𝖔𝖗𝖉 / 𝕸𝖁𝕷𝕽 🌨
 > 𝑫𝒊𝒄𝒊𝒆𝒎𝒃𝒓𝒆 19 - 28 / 7 𝑩𝒐𝒕𝒔 (S/0.00) / 𝑩𝒂𝒔𝒆𝒔 + 𝑺𝒆𝒓𝒗𝒊𝒅𝒐𝒓𝒆𝒔 (𝘳𝘦𝘨𝘢𝘭𝘪𝘵𝘰 𝘥𝘦𝘭 𝘤𝘳𝘦𝘢𝘥𝘰𝘳 🙆🏿‍♂️ 24 𝘋𝘐𝘊𝘐𝘌𝘔𝘉𝘙𝘌)
 ---
-
-
-
-
-
-
-
-
-
-
-
 ### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨          
 [![NeroJavl](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
-### 𝑺𝒊 𝒅𝒆𝒔𝒆𝒂 𝒂𝒑𝒐𝒓𝒕𝒂𝒓 𝒑𝒐𝒓 𝒎𝒊 𝒕𝒓𝒂𝒃𝒂𝒋𝒐 🤠[𝑴𝒊 𝑷𝒂𝒚𝑷𝒂𝒍](https://www.paypal.me/kkjale)
-
+### 🍄 𝑺𝒊 𝒅𝒆𝒔𝒆𝒂 𝒂𝒑𝒐𝒓𝒕𝒂𝒓 𝒑𝒐𝒓 𝒎𝒊 𝒕𝒓𝒂𝒃𝒂𝒋𝒐 🍄[𝑴𝒊 𝑷𝒂𝒚𝑷𝒂𝒍 🤠👍🏿](https://www.paypal.me/kkjale)
 [TikTok]:https://www.tiktok.com/@javlkkj
 [Steam]:https://www.instagram.com/nero.javl/
-
 [Pinterest]:https://pin.it/2rVUnFz
-
 [<img align="left" alt="TikTok" width="26px" src="https://www.pngmart.com/files/20/TikTok-Logo-PNG-Photo.png" />][TikTok]
-
 [<img align="left" alt="Steam" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/steam_alt_macos_bigsur_icon_189698.png" />][Steam]
-  
-
-
-	
 [<img align="left" alt="Pinterest" width="26px" src="https://www.freepnglogos.com/uploads/pinterest-logo-p-png-0.png" />][Pinterest]
 	
-
 ---
 ### 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
-
 
 
 [![Spotify](https://novatorem-9p0lop30p-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
