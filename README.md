@@ -7,7 +7,9 @@
 <p align="center">
 </p>
 <a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/Solo eu bokka🥀 -red?colorA=%&colorBF77F48FF=%F77F48FF&style=for-the-badge"></a> 
-<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/si deseas aportar para mi techo de calamina 😖🤙🏿-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
+
+<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/si deseas aportar para mi techo de calamina 😖🤙🏿-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"> 
+
 </a>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=11&pause=435&color=34F6F7&width=435&lines=Redes+de+JAVL+X+KKJ+MODS+%F0%9F%8C%88%E2%9C%A8)](https://git.io/typing-svg)
@@ -46,8 +48,20 @@
 
 
 
-### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨ 
+### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨          
 [![NeroJavl](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
+### 💖 ```DONAR``` [`Aquí`](https://www.paypal.me/kkjale)
+
+<div align="center" valign="Pinterest"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145808.png">
+
+[website]:https://www.instagram.com/nero.javl/
+
+  <img align="center" alt="Redux" height="30" width="40" src="https://w7.pngwing.com/pngs/579/605/png-transparent-steam-computer-icons-desktop-logo-steam-icon-monochrome-video-game-microsoft-store.png">
+  <img align="center" alt="Js" height="30" width="40" src="https://w7.pngwing.com/pngs/814/840/png-transparent-tiktok-tiktok-logo-tiktok-icon.png">
+  
+
+</div>
 ### 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
 
 [![Spotify](https://novatorem-9p0lop30p-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
