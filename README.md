@@ -57,7 +57,7 @@
 
 [Pinterest]:https://www.instagram.com/nero.javl/
 
-[<img align="left" alt="TikTok" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ533ddhBvOV6mQvlYgv25meeNcvQh4Fgr3ag&usqp=CAU" />][TikTok]
+[<img align="left" alt="TikTok" width="26px" src="https://www.pngmart.com/files/20/TikTok-Logo-PNG-Photo.png" />][TikTok]
 
 [<img align="left" alt="Steam" width="26px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png" />][Steam]
   
@@ -68,7 +68,10 @@
 	
 </div>
 
+
 ### 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
+
+
 
 [![Spotify](https://novatorem-9p0lop30p-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
 
