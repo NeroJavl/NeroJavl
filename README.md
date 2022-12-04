@@ -25,6 +25,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NeroJavl?color=1DA1F2&label=NeroJavl&logo=Twitter&style=for-the-badge)](https://twitter.com/NeroJavl)
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nero-javl-358529259)
 
 
