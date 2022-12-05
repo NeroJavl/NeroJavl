@@ -47,7 +47,7 @@
 [Pinterest]:https://pin.it/2rVUnFz
 [<img align="left" alt="TikTok" width="26px" src="https://www.pngmart.com/files/20/TikTok-Logo-PNG-Photo.png" />][TikTok]
 [<img align="left" alt="Steam" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/steam_alt_macos_bigsur_icon_189698.png" />][Steam]
-[<img align="left" alt="Pinterest" width="26px" src="https://www.freepnglogos.com/uploads/pinterest-logo-p-png-0.png" />][Pinterest]
+[<img align="left" alt="Pinterest" width="26px" src="https://cdn.icon-icons.com/icons2/2119/PNG/512/social_pinterest_icon_131227.png" />][Pinterest]
 	
 ---
 ### 🛐 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
