@@ -53,9 +53,8 @@
 ### 🛐 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
 
 
-[![Spotify](https://novatorem-9p0lop30p-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
+[![Spotify](https://novatorem-2xd-gh1kp2c5m-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7r0gzjy58pkhtvtmsqheud3nb&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 
 
