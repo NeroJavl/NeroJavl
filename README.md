@@ -55,5 +55,7 @@
 
 [![Spotify](https://novatorem-2xd-gh1kp2c5m-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31foandnqbgzcdvwsyhwaijb4kne&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
 
 
