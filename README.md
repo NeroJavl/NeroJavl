@@ -53,7 +53,7 @@
 ### 🛐 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
 
 
-[![Spotify](https://novatorem-2xd-gh1kp2c5m-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
+[![Spotify](https://novatorem-2xd-gh1kp2c5m-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/nerojavl)
 
 
 
