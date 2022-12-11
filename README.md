@@ -40,7 +40,7 @@
 > 𝑫𝒊𝒄𝒊𝒆𝒎𝒃𝒓𝒆 19 - 28 / 7 𝑩𝒐𝒕𝒔 (S/0.00) / 𝑩𝒂𝒔𝒆𝒔 + 𝑺𝒆𝒓𝒗𝒊𝒅𝒐𝒓𝒆𝒔 (𝘳𝘦𝘨𝘢𝘭𝘪𝘵𝘰 𝘥𝘦𝘭 𝘤𝘳𝘦𝘢𝘥𝘰𝘳 🙆🏿‍♂️ 24 𝘋𝘐𝘊𝘐𝘌𝘔𝘉𝘙𝘌)
 ---
 ### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨          
-[![NeroJavl](https://drive.google.com/file/d/1gNPHDw0Cz4aWeUwvfTA4SjmGHmI_9zEL/view?usp=sharing)
+[![NeroJavl](https://lh3.googleusercontent.com/JUUBM9W8-M-58SrXMmUb-DCMOgXHH99pUx0ebqadqlARchyRLB39F7gnXF8RZB3hfOcSTw=s71)](https://github.com/NeroJavl) 
 ### 🍄 𝑺𝒊 𝒅𝒆𝒔𝒆𝒂 𝒂𝒑𝒐𝒓𝒕𝒂𝒓 𝒑𝒐𝒓 𝒎𝒊 𝒕𝒓𝒂𝒃𝒂𝒋𝒐 🍄[𝑴𝒊 𝑷𝒂𝒚𝑷𝒂𝒍 🤠👍🏿](https://www.paypal.me/kkjale)
 [TikTok]:https://www.tiktok.com/@javlkkj
 [Steam]:https://steamcommunity.com/profiles/76561199241634704/
