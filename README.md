@@ -35,9 +35,9 @@
 ### 🍒 ```𝙆𝙆𝙅𝙈𝙊𝘿𝙎 𝙎𝙀𝙍𝙑𝙀𝙍 / 𝘽𝙊𝙏𝙎```
 -----
 * 𝚔𝚔𝚓 - 𝚖𝚘𝚍𝚜 : 𝕾𝖊𝖗𝖛𝖎𝖉𝖔𝖗𝖊𝖘 𝕻𝖗𝖊𝖒𝖎𝖚𝖓 / 𝕱𝖗𝖊𝖊 🌨
-> 60 Servidores 24/7 Activos (El creador no ha encontrado ningun error 🤨📸
-* 𝚔𝚔𝚓 - 𝚖𝚘𝚍𝚜 : 𝕭𝖔𝖙𝖘 𝖂𝖍𝖆𝖙𝖘𝕬𝖕 / 𝕿𝖊𝖑𝖊𝖌𝖗𝖆𝖒 / 𝕯𝖎𝖘𝖈𝖔𝖗𝖉 / 𝕸𝖁𝕷𝕽 🌨
-> 35 Bots en ejecución (KKJ-MODS) 24 (Actualización en proceso)
+> 60 Servidores 24/7 Activos (El creador no ha encontrado ningun error 🤨📸)
+* 𝚔𝚔𝚓 - 𝚖𝚘𝚍𝚜 : 𝕭𝖔𝖙𝖘 𝖂𝖍𝖆𝖙𝖘𝕬𝖕 
+> 6 Bots en Desarrrolo (KKJ-MODS) - Javl Bot en ejecucion
 ---
 ### ✨ 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 ✨          
 [![NeroJavl](https://avatars.githubusercontent.com/u/119689098?s=100&u=53dc19e15376c64f96fb2ae2b0205d60e4de0eea&v=4)](https://github.com/NeroJavl) 
@@ -49,13 +49,6 @@
 [<img align="left" alt="Steam" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/steam_alt_macos_bigsur_icon_189698.png" />][Steam]
 [<img align="left" alt="Pinterest" width="26px" src="https://cdn.icon-icons.com/icons2/2119/PNG/512/social_pinterest_icon_131227.png" />][Pinterest]
 	
----
-### 🛐 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🛐
-
-
-[![Spotify](https://novatorem-2xd-gh1kp2c5m-nerojavl.vercel.app/api/spotify)](https://open.spotify.com/user/NeroJavl)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31foandnqbgzcdvwsyhwaijb4kne&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 
 
